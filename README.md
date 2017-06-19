@@ -10,3 +10,9 @@ https://chrome.google.com/webstore/detail/%D1%84%D0%BA-%D1%83%D1%84%D0%B0/imkhbf
 Автор: Исмагилов А.З.|Author:Ismagilov A.Z.
 http://twitter.com/AmirIsmagilov
 
+License: GNU General Public License V3.
+https://www.gnu.org/licenses/gpl-3.0.ru.html
+
+Лицензия: GNU General Public License V3.
+https://www.gnu.org/licenses/quick-guide-gplv3.html
+
