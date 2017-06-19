@@ -1,3 +1,9 @@
+/*
+   Author: Ismagilov A.Z.
+   email: progamailism@gmail.com
+   https://twitter.com
+*/
+
 $(function(){
   //var today = new Date();
   //$("#date").html(today.getDate()+"."+(parseInt(today.getMonth())+1)+"." + today.getFullYear());
