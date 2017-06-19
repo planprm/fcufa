@@ -16,3 +16,5 @@ https://www.gnu.org/licenses/gpl-3.0.ru.html
 Лицензия: GNU General Public License V3.
 https://www.gnu.org/licenses/quick-guide-gplv3.html
 
+email: progamailism@gmail.com
+
