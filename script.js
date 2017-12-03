@@ -1,7 +1,7 @@
 /*
    Author: Ismagilov A.Z.
    email: progamailism@gmail.com
-   https://twitter.com
+   https://twitter.com/AmirIsmagilov
 */
 
 $(function(){
